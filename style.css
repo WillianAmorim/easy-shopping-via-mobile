@@ -7,3 +7,8 @@
 main {
   display: flex;
 }
+
+#first-section {
+  background-color: blueviolet;
+  width: 70vw;
+}
