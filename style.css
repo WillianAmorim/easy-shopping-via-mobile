@@ -17,6 +17,12 @@ main {
   height: 100vh;
 }
 
+#first-section > div > h1 {
+  font-size: 70px;
+  line-height: 80px;
+  color: #5D5D7D;
+}
+
 #second-section {
   width: 40vw;
   height: 100vh;
