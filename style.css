@@ -18,9 +18,9 @@ main {
 }
 
 #second-section {
-  background-color: brown;
   width: 40vw;
   height: 100vh;
+  background-image: url('./images/Background-5-10.png');
 }
 
 #second-section > ul {
