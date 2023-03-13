@@ -23,6 +23,14 @@ main {
   color: #5D5D7D;
 }
 
+#first-section > div > p {
+  font-size: 28px;
+  line-height: 48px;
+  color: #5D5D7D;
+  mix-blend-mode: normal;
+  opacity: 0.6;
+}
+
 #second-section {
   width: 40vw;
   height: 100vh;
