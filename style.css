@@ -11,15 +11,23 @@ main {
 #first-section {
   background-color: blueviolet;
   width: 70vw;
+  height: 100vh;
 }
 
 #second-section {
   background-color: brown;
   width: 30vw;
+  height: 100vh;
 }
 
 #second-section > ul {
   display: flex;
   list-style: none;
+  gap: 41px;
+  padding: 24px 55px 0 55px;
+}
+
+#second-section ul > li > a {
   text-decoration: none;
+  color: #5D5D7D;
 }
