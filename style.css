@@ -12,3 +12,8 @@ main {
   background-color: blueviolet;
   width: 70vw;
 }
+
+#second-section {
+  background-color: brown;
+  width: 30vw;
+}
