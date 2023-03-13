@@ -17,6 +17,12 @@ main {
   height: 100vh;
 }
 
+#first-section > div {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
 #first-section > div > h1 {
   font-size: 70px;
   line-height: 80px;
