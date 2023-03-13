@@ -39,6 +39,13 @@ main {
   opacity: 0.6;
 }
 
+img {
+  position: absolute;
+  left: 660px;
+  top: 120px;
+  height: 500px;
+}
+
 #first-section > div > button {
   width: 269px;
   height: 62px;
