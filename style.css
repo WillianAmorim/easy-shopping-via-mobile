@@ -17,3 +17,9 @@ main {
   background-color: brown;
   width: 30vw;
 }
+
+#second-section > ul {
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+}
