@@ -12,12 +12,14 @@ main {
 }
 
 #first-section {
-  background-color: blueviolet;
   width: 60vw;
   height: 100vh;
 }
 
 #first-section > div {
+  width: 540px;
+  margin-top: 150px;
+  margin-left: 100px;
   display: flex;
   flex-direction: column;
   gap: 15px;
