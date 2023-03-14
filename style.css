@@ -177,11 +177,12 @@ img {
     padding-bottom: 40px;
     display: flex;
     justify-content: center;
+    align-items: center;
   }
 
   img {
-    height: 300px;
-    width: 250px;
+    height: 322px;
+    width: 271px;
     top: 0;
     margin-top: 50px;
     right: 0;
