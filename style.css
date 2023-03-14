@@ -172,12 +172,11 @@ img {
   }
 
   #second-section {
-    width: auto;
+    width: 100vw;
     height: auto;
     padding-bottom: 40px;
     display: flex;
     justify-content: center;
-    align-items: center;
   }
 
   img {
