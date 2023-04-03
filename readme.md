@@ -1,5 +1,4 @@
-# Título do Projeto
-Easy Shopping Via Mobile
+# Easy Shopping Via Mobile
 
 # Objetivos
 Demonstrar a página inicial de um site, onde no formato web ele tem efeitos de hover no menu, já no modelo mobile o menu para de existir, ficando tudo responsivo
